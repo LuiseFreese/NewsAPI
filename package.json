@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Luise",
+  "author": "Luise Freese",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.26.0",
